@@ -33,44 +33,6 @@ Additionally, it features a **caching mechanism** for performance optimization, 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Pokedex-CLI.git
-cd Pokedex-CLI
-```
-### 2. Install **Pokedex CLI**
-
-## Overview
-The Pokedex CLI project allows users to interact with a simulated Pokedex through a command-line interface (REPL). Users can explore, catch, inspect, and manage Pokémon in the world of Pokémon using real-time data fetched from the [PokeAPI](https://pokeapi.co/).
-
-This project simulates a Pokedex that:
-- Allows users to catch Pokémon.
-- Displays the user's caught Pokémon.
-- Offers detailed statistics and exploration of Pokémon.
-
-Additionally, it features a **caching mechanism** for performance optimization, meaning once a location or Pokémon is fetched, subsequent accesses are immediate.
-
----
-
-## Features
-- **Commands:**
-  - `help`: Displays a help message explaining available commands.
-  - `exit`: Exits the Pokedex REPL.
-  - `map`: Lists location areas in the Pokémon world.
-  - `mapb`: Goes back to the previous 20 location areas.
-  - `explore <area>`: Explores a given location area and lists encountered Pokémon.
-  - `catch <pokemon>`: Catches a Pokémon and adds it to your Pokedex.
-  - `inspect <pokemon>`: Displays detailed information about a caught Pokémon.
-  - `pokedex`: Lists all the Pokémon you've caught.
-
-- **Caching System:** 
-  - The app caches data from the PokeAPI to reduce redundant API calls, improving performance for subsequent commands.
-
----
-
-## Setup Instructions
-
-### 1. Clone the Repository
-
-```bash
 git clone https://github.com/yourusername/pokedex-cli.git
 cd pokedex-cli
 ```
