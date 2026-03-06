@@ -33,8 +33,8 @@ Additionally, it features a **caching mechanism** for performance optimization, 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/pokedex-cli.git
-cd pokedex-cli
+git clone https://github.com/yourusername/Pokedex-CLI.git
+cd Pokedex-CLI
 ```
 ### 2. Install Dependencies
 ```
@@ -96,4 +96,4 @@ If you want to modify or extend the project, here are some ideas:
 - File system caching
 
 ## License
-- This project is open-source and available under the MIT License/
+- This project is open-source and available under the MIT License.
