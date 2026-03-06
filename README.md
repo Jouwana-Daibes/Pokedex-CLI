@@ -33,8 +33,9 @@ Additionally, it features a **caching mechanism** for performance optimization, 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Pokedex-CLI.git
-cd Pokedex-CLI
+git clone https://github.com/yourusername/pokedex-cli.git
+cd pokedex-cli
+```
 ### 2. Install # Pokedex CLI
 
 ## Overview
