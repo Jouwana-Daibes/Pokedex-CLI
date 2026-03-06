@@ -36,7 +36,7 @@ Additionally, it features a **caching mechanism** for performance optimization, 
 git clone https://github.com/yourusername/Pokedex-CLI.git
 cd Pokedex-CLI
 ```
-### 2. Install ** Pokedex CLI **
+### 2. Install **Pokedex CLI**
 
 ## Overview
 The Pokedex CLI project allows users to interact with a simulated Pokedex through a command-line interface (REPL). Users can explore, catch, inspect, and manage Pokémon in the world of Pokémon using real-time data fetched from the [PokeAPI](https://pokeapi.co/).
